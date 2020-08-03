@@ -1,4 +1,4 @@
-#First year web design project. 
+# First year web design project. 
 
 
 You have been tasked with creating a website for your friend who is getting married. The aim here is to provide needed information as to the wedding as well as fun details such as backstory of the couple. This means that the website must be aesthetically pleasing and well-laid out. 
