@@ -8,19 +8,19 @@ You have been tasked with creating a website for your friend who is getting marr
 The home page should be relatively simple, well laid out and clean without much clutter. It should be easy for the user to navigate to any other page from the home page. 
 You may be creative and implement elements as you please. However, ensure that you abide by best practice and that your site is HTML5 compliant. In the areas mentioned below, you may only use the implementation as stated explicitly.
 
-•	Menu implementation 
-•	Page layout
-•	Resource linking
-•	Page content  
-•	Page layout
-•	Background
+1.	Menu implementation 
+2.	Page layout
+3.	Resource linking
+4.	Page content  
+5.	Page layout
+6.	Background
 
 In addition to the requirements mentioned above, you will also be graded on the following:
-•	Professional and consistent look and feel.
-•	Ease of use (navigation throughout the website).
-•	Naming standards applied in coding.
-•	Proper use of HTML5 and CSS in combination.
-•	Good file structure.
+1.	Professional and consistent look and feel.
+2.  Ease of use (navigation throughout the website).
+3.	Naming standards applied in coding.
+4.	Proper use of HTML5 and CSS in combination.
+5.  Good file structure.
 
 Please view the appendices below for guidance on the expected layout and structure. This should also give an indication of the expected level of detail. You are not required to make an exact replica of the implementation provided. Your design must, as a basic requirement, be comparable to the samples.
 An immediate fail will be awarded to any student that makes use of templates in this project.
