@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>RSVP</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="mycss.css" rel="stylesheet" type="text/css"/>
+    </head>
+   <body>
+        <div id="pageCon">
+            <header>
+                <div id="banDiv">
+                     <p id="banner">We Can't Wait To See You</p>
+                </div>
+
+                <p id="date">Please RSVP by 31 October 2019 </p>
+            </header>
+            <nav>
+                    <ul>
+                        <li><a href="home.html">Home</a></li>
+                        <li><a href="OurStory.html">Our Story</a></li>
+                        <li><a href="Gallery.html">Gallery</a></li>
+                        <li><a href="Playlist.html">Playlist</a></li>
+                        <li><a href="gift.html">Gift Registry</a></li>
+                        <li><a href="Location.html">Venue</a></li>
+                        <li><a href="rsvp.html">RSVP</a></li>
+                          
+
+
+                    </ul>
+            </nav>
+            <section>
+                <form action='mailto:576636@student.belgiumcampus.ac.za?subject=I will be there'  method="post" enctype="text/plain">
+                    <!-- add subject-->
+                    Name:<br>
+                    <input type="text" name="name"><br><br>
+                    E-mail:<br>
+                    <input type="text" name="mail"><br><br>
+                    Plus one?<br>
+                    <input type="checkbox" value="Yes" name="plusone"><br><br>
+                    Allergies:<br>
+                    <input type="text" name="Allergy" size="50"> <br><br><br>
+                    Questions/Comments:<br>
+                    <input type="text" name="Comment" size="50"> <br><br>
+                    <a id="cale" href="resources/A&T.ics"><img id="cal" src="images/cal.jpg" alt=""/>Click here to add to calendar</a><br><br><br>
+              
+                    <input type="submit" value="Send">
+                    <input type="reset" value="Reset">
+                    
+                    
+                </form>
+            </section>
+           
+            <footer>
+                <p class="foot">All Rights Reserved</p>
+            </footer>
+        </div>
+        
+    </body>
+</html>

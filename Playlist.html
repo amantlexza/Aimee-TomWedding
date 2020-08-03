@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Playlist</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="mycss.css" rel="stylesheet" type="text/css"/>
+        <script src="myjs.js" type="text/javascript"></script>
+    </head>
+    <body>
+        
+        <div id="pageCon">
+            <header>
+                <div id="banDiv">
+                     <p id="banner">Wedding Playlist</p>
+                </div>
+
+                <p id="date"> Be a part of our beautiful day</p>
+            </header>
+            <nav>
+                    <ul>
+                        <li><a href="home.html">Home</a></li>
+                        <li><a href="OurStory.html">Our Story</a></li>
+                        <li><a href="Gallery.html">Gallery</a></li>
+                        <li><a href="Playlist.html">Playlist</a></li>
+                        <li><a href="gift.html">Gift Registry</a></li>
+                        <li><a href="Location.html">Venue</a></li>
+                        <li><a href="rsvp.html">RSVP</a></li>
+
+
+                    </ul>
+            </nav>
+            <section class="playlist">
+                <div>
+                
+                    
+                </div>
+                <div class="music">
+                    <audio controls>
+                    <source src="songs/1-04 Cruel Intentions.mp3" type="audio/mpeg"><br>
+                    Your browser does not support the <code>audio</code> tag.
+                    </audio>
+                        <p class="name">JMSN -Cruel Intentions</p>
+                    <p class="name">It is (Album)</p>
+
+                </div>
+                <div  class="music">
+                    <audio controls>
+                    <source src="songs/1-09 Fantasize.mp3" type="audio/mpeg">
+                    Your browser does not support the <code>audio</code> tag.
+                    </audio>
+                    <p class="name">JMSN -Fantasize</p>
+                    <p class="name">It is (Album)</p>
+                </div>
+                <hr>
+                <h3>Send us your favourite song and we will add it to the wedding playlist</h3>
+                <div class="music">
+                    <form action='mailto:576636@student.belgiumcampus.ac.za?subject=I will be there'  method="post" enctype="text/plain">
+                        Song Name:<br>
+                        <input type="text" name="name"><br><br>
+                        Song: <br>
+                        <input type="file" name="song"><br><br>
+                        <input type="submit" value="Send">
+                    </form>
+                </div>
+                
+                
+                
+            </section>
+         
+        
+            <footer>
+                <p class="foot">All Rights Reserved</p>
+            </footer>
+        </div>
+        
+    </body>
+</html>
