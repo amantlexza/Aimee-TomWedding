@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:amantlemashele@gmail.com
+X-WR-TIMEZONE:Africa/Johannesburg
+BEGIN:VEVENT
+DTSTART:20191207T080000Z
+DTEND:20191207T170000Z
+DTSTAMP:20190821T120722Z
+UID:5tgafid41f5qboeebf3anu9cg6@google.com
+CREATED:20190821T120705Z
+DESCRIPTION:Thank you for wanting to be a part of this auspicious occasion 
+ the program will follow shortly
+LAST-MODIFIED:20190821T120705Z
+LOCATION:GROUND The Venue\, Plot 19 Driefontein Rd\, Muldersdrift\, 1747\, 
+ South Africa
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tom weds Aimee
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
